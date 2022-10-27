@@ -3,23 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c9a922fa-8c6d-40f0-a94b-d74feb33e032" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/METR-LA/individual_3layer_12T.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/PEMS-BAY/individual_3layer_12T.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/PeMSD7L/individual_3layer_12T.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/PeMSD7M/individual_3layer_12T.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Temporal_Graph_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/Temporal_Graph_gen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/adj_METR-LA_002.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/adj_METR-LA_003.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/adj_METR-LA_005.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/adj_PEMS-BAY_002.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/adj_PeMSD7_V_1026_002.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/adj_PeMSD7_V_228_002.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_training_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_4n0_3layer_12T_712_res_npz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils_4n0_3layer_12T_712_res.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/PEMS08/individual_3layer_12T.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/PEMS08/individual_3layer_12T.json" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,18 +23,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mengz\PycharmProjects\STFGNN\data" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,9 +48,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
